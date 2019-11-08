@@ -37,15 +37,6 @@ header .social-media {
     line-height: 15px;
 }
 
-.h100 {
-    height: 100%;
-}
-
-header {
-    height: 100%;
-    position: fixed;
-}
-
 main {
     position: fixed;
     overflow-y: auto;
@@ -59,7 +50,42 @@ main {
     background-size: cover;
 }
 
+.social-media {
+    display: inline-block;
+}
+
 /* This somehow made the scrollbar invisible. IDK how but I'm OK with it. */
 ::-webkit-scrollbar {
     width: 100px;
-  }
+}
+
+/* XL */
+@media (min-width: 1200px) {
+    .h100 {
+        height: 100%;
+    }
+    
+    header {
+        height: 100%;
+        position: fixed;
+    }
+}
+
+/* LG */
+@media (min-width: 992px) {  }
+
+/* MD */
+@media (min-width: 768px) {
+    header {
+        height: auto;
+        /* margin-bottom: 20px; */
+    }
+}
+
+/* SM */
+@media (min-width: 576px) {
+    header {
+        height: auto;
+        /* margin-bottom: 20px; */
+    }
+}
