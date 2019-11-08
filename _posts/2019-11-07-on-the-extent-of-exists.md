@@ -2,7 +2,8 @@
 layout: post
 permalink: "/:title/"
 title: On the extent of Exists
-description: The idea of only being around for such a short amount of time.
+description: The idea of only being around for such a short amount of time. What a
+  drag, am I right?
 date: 2019-11-07 05:00:00 +0000
 header_img: https://source.unsplash.com/7NBO76G5JsE
 header_link: https://unsplash.com/photos/7NBO76G5JsE
