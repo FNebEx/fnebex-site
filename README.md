@@ -10,5 +10,3 @@ Here is the current [site](https://keen-villani-03f83b.netlify.com/ "site").
    1. Add data files via Forestry.
 3. Add social media links.
 4. Change link color to the blue that present in the header.
-
-   <input type="checkbox" name="vehicle1" value="Bike">Do stuff.
