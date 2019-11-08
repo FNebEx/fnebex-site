@@ -59,5 +59,3 @@ fields:
     required: false
   label: Header IMG Author
   description: Name of the author.
-pages:
-- _posts/2019-11-07-on-the-extent-of-exists.md
