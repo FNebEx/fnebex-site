@@ -1,12 +1,13 @@
 ---
 label: Post
-hide_body: true
+hide_body: false
 fields:
 - name: layout
   type: text
   config:
     required: true
   label: Layout
+  default: post
 - name: title
   type: text
   config:
