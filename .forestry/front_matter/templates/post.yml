@@ -1,4 +1,60 @@
 ---
 label: Post
 hide_body: true
-fields: []
+fields:
+- name: layout
+  type: text
+  config:
+    required: true
+  label: Layout
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
+- name: permalink
+  type: text
+  config:
+    required: true
+  label: Permalink
+  default: "/:title/"
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Description
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: false
+    date_format: MM/DD/YYYY
+    time_format: 
+    display_utc: false
+- name: header_img
+  type: text
+  config:
+    required: false
+  label: Header
+- name: header_link
+  type: text
+  config:
+    required: false
+  label: Header Link
+- name: header_source
+  type: text
+  config:
+    required: false
+  label: Header Source
+  description: The name of the website where the header image came from.
+- name: header_img_author
+  type: text
+  config:
+    required: false
+  label: Header IMG Author
+  description: Name of the author.
