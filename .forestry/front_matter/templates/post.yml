@@ -59,5 +59,13 @@ fields:
     required: false
   label: Header IMG Author
   description: Name of the author.
-pages:
-- _posts/ephemeral.md
+- name: edit
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Edit
+  description: An editor's note for when a post had to be updated.
