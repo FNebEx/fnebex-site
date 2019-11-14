@@ -8,9 +8,7 @@ header_img: https://source.unsplash.com/F-B7kWlkxDQ
 header_link: https://unsplash.com/photos/F-B7kWlkxDQ
 header_source: Unsplash
 header_img_author: Travis Yewell
-
 ---
-_Editors note: I add some quotes here. Yea..._
 
 "Whenever I find myself growing grim about the mouth; whenever it is a damp, drizzly November in my soul; whenever I find myself involuntarily pausing before coffin warehouses, and bringing up the rear of every funeral I meet; and especially whenever my hypos get such an upper hand of me, that it requires a strong moral principle to prevent me from deliberately stepping into the street, and methodically knocking people’s hats off—then, I account it high time to get to sea as soon as I can."
 
