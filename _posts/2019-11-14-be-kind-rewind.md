@@ -12,3 +12,16 @@ edit: "Added that you should be careful with your cassettes \U0001F44D\U0001F44D
 
 ---
 For some reason, I am trying my best to find a not crappy cassette player. One that would be put on a desk. I am also trying to a Walkman or some sort of portable cassette player. I just seriously want one. Also, be careful with you cassettes.
+
+### Feel Bad About Yourself
+
+###### Track list
+
+1. Minus Twenty-Six
+2. Beautifully Imperfect
+3. Biggie
+4. Sinnoh Region
+5. Tight
+6. Hard Ass Beat.
+
+November 29th, 2019.
