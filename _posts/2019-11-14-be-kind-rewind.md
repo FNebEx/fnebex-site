@@ -24,4 +24,4 @@ For some reason, I am trying my best to find a not crappy cassette player. One t
 5. Tight
 6. Hard Ass Beat.
 
-November 29th, 2019.
+"Feel Bad About Yourself" available on November 29th, 2019 on Bandcamp, SoundClound, and possible Spotify.
