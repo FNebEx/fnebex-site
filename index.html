@@ -5,7 +5,7 @@ title: Home
 
 <!-- {% assign posts = site.posts %} -->
     
-{% for post in site.posts %}
+{% for post in site.posts reverse %}
 <div class="post-wrapper mb-3" >
     <div class="parallax" style='background-image: url("{{ post.header_img }}");'></div>
     <div class="h3">{{ post.title }}</div>
