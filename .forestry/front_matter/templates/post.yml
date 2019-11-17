@@ -61,7 +61,7 @@ fields:
   description: Name of the author.
 - name: edit
   type: textarea
-  default: ''
+  default: 'null'
   config:
     required: false
     wysiwyg: false
@@ -71,7 +71,7 @@ fields:
   description: An editor's note for when a post had to be updated.
 - name: bandcamp
   type: textarea
-  default: ''
+  default: 'null'
   config:
     required: false
     wysiwyg: false
