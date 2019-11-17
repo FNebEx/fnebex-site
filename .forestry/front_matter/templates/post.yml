@@ -80,5 +80,5 @@ fields:
   label: Bandcamp
   description: Link of the Bandcamp release.
 pages:
+- _posts/2019-11-17-the-man-made-sun.md
 - _posts/2019-11-08-ephemeral.md
-- _posts/the-man-made-sun.md
