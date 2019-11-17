@@ -69,5 +69,15 @@ fields:
       format: markdown
   label: Edit
   description: An editor's note for when a post had to be updated.
+- name: bandcamp
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Bandcamp
+  description: Link of the Bandcamp release.
 pages:
 - _posts/the-man-made-sun.md
