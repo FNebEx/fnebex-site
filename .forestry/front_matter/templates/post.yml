@@ -50,7 +50,7 @@ fields:
 - name: header_source
   type: text
   config:
-    required: false
+    required: true
   label: Header Source
   description: The name of the website where the header image came from.
 - name: header_img_author
@@ -61,7 +61,7 @@ fields:
   description: Name of the author.
 - name: edit
   type: textarea
-  default: 'null'
+  default: ''
   config:
     required: false
     wysiwyg: false
@@ -79,6 +79,22 @@ fields:
       format: markdown
   label: Bandcamp
   description: Link of the Bandcamp release.
+- name: source
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - Unsplash
+    - Pexels
+    - Pixabay
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Source
+  description: A drop down menu of where the head photo came from.
 pages:
 - _posts/ephemeral-notion.md
 - _posts/2019-11-17-the-man-made-sun.md
