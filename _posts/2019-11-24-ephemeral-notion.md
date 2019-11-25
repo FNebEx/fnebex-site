@@ -1,8 +1,8 @@
 ---
 layout: post
 permalink: "/:title/"
-edit: 'null'
-bandcamp: 'null'
+edit: ''
+bandcamp: ''
 title: Ephemeral Notion
 description: Mayflies spend most of their lives in the water as nymphs and then emerge
   as adults for only a short while. Adults will live only a day or so, but the aquatic
