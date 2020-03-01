@@ -96,7 +96,8 @@ fields:
   label: Source
   description: A drop down menu of where the head photo came from.
 pages:
-- _posts/new-math.md
-- _posts/ephemeral-notion.md
-- _posts/2019-11-17-the-man-made-sun.md
 - _posts/2019-11-08-ephemeral.md
+- _posts/2019-11-17-the-man-made-sun.md
+- _posts/ephemeral-notion.md
+- _posts/new-math.md
+- _posts/the-book-of-ruth.md
